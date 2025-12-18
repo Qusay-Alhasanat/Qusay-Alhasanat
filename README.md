@@ -17,8 +17,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-qusayalhasanat1-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/qusayalhasanat1)
 [![GitHub](https://img.shields.io/badge/GitHub-Qusay--Alhasanat-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Qusay-Alhasanat)
 
-<img src="https://komarev.com/ghpvc/?username=Qusay-Alhasanat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
