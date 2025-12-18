@@ -4,7 +4,7 @@
 
 ### Data Analyst | Aspiring Data Scientist | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Understanding;One+Dataset+at+a+Time;Learning+%7C+Building+%7C+Growing;From+Curiosity+to+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=From+Data+Analysis+to+Data+Science;Learning+Through+Real+Projects;Turning+Curiosity+into+Insight;Building+One+Project+at+a+Time" alt="Typing SVG" />
 
 </div>
 
